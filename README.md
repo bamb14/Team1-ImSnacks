@@ -50,8 +50,7 @@
 
 ## 4. 시연 영상
 
-https://github.com/user-attachments/assets/4114d6da-dd2d-445d-8bcf-519ee968de1f
-
+https://github.com/user-attachments/assets/162ef445-c093-4aec-960b-091ededcfffa
 
 
 <img width="424" height="758" alt="image" src="https://github.com/user-attachments/assets/1bdc7a03-3f44-4064-9788-c7b69063b2b3" />
