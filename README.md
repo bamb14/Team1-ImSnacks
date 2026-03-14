@@ -1,4 +1,4 @@
-<img width="2160" height="1215" alt="Image" src="https://github.com/user-attachments/assets/955ff08e-c458-4c98-b1cf-8be510556e5d" />
+<img width="2160" height="1215" alt="Image" src="https://github.com/user-attachments/assets/8aca88cc-9646-498a-8396-c11bf608ee10" />
 
 # 🌱 녀름나기 - 영세농을 위한 날씨 정보 기반 농작업 계획 어시스턴트
 
