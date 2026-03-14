@@ -1,4 +1,4 @@
-<img width="2160" height="1215" alt="Image" src="https://github.com/user-attachments/assets/a47e1892-e4be-46b2-be84-6921a8e79ec0" />
+<img width="2160" height="1215" alt="Image" src="https://github.com/user-attachments/assets/955ff08e-c458-4c98-b1cf-8be510556e5d" />
 
 # 🌱 녀름나기 - 영세농을 위한 날씨 정보 기반 농작업 계획 어시스턴트
 
@@ -50,9 +50,9 @@
 
 ## 4. 시연 영상
 
-https://github.com/user-attachments/assets/14e8513d-597b-486b-a0bd-ea265c9b4b31
+https://github.com/user-attachments/assets/4114d6da-dd2d-445d-8bcf-519ee968de1f
 
-<img width="424" height="758" alt="image" src="https://github.com/user-attachments/assets/59a411f5-3d92-4c24-832e-207d03cfa535" />
+<img width="424" height="758" alt="image" src="https://github.com/user-attachments/assets/12c2d27f-3f33-4ca8-aa8a-250040b7b53f" />
 
 
 ---
@@ -119,7 +119,7 @@ frontend
 ```
 
 ## 8. 인프라 구조도
-<img width="1608" height="1320" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/242ef2ec-93a9-4b1b-a7cf-910ed4fde225" />
+<img width="1608" height="1320" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/cd826d9f-ba1c-446f-86ba-98f671174730" />
 
 
 ---
@@ -127,16 +127,16 @@ frontend
 
 ### 주요 ERD
 
-<img width="646" height="643" alt="녀름나기 ERD" src="https://github.com/user-attachments/assets/44fe5895-67ef-4dbb-bbf0-20018729f67d" />
+<img width="646" height="643" alt="녀름나기 ERD" src="https://github.com/user-attachments/assets/1ec87daa-7a3c-4dab-b170-6fbc3173ef47" />
 
 
 ### 날씨 관련 ERD
 
-<img width="650" height="204" alt="날씨 관련 ERD" src="https://github.com/user-attachments/assets/0ffbc033-3165-4e40-ad77-904bd0e1b3f6" />
+<img width="650" height="204" alt="날씨 관련 ERD" src="https://github.com/user-attachments/assets/85068dba-d15b-4021-9ecd-a8aa83b4f918" />
 
 ### 지역 코드 ERD
 
-<img width="529" height="490" alt="지역 코드 ERD" src="https://github.com/user-attachments/assets/159d4ca3-4b06-4f57-9372-8f1d073811a6" />
+<img width="529" height="490" alt="지역 코드 ERD" src="https://github.com/user-attachments/assets/2e24d1d1-99c0-4cb6-8ad9-7aba2add9c23" />
 
 ---
 
