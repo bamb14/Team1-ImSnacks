@@ -52,7 +52,9 @@
 
 https://github.com/user-attachments/assets/4114d6da-dd2d-445d-8bcf-519ee968de1f
 
-<img width="424" height="758" alt="image" src="https://github.com/user-attachments/assets/12c2d27f-3f33-4ca8-aa8a-250040b7b53f" />
+
+
+<img width="424" height="758" alt="image" src="https://github.com/user-attachments/assets/1bdc7a03-3f44-4064-9788-c7b69063b2b3" />
 
 
 ---
@@ -119,24 +121,23 @@ frontend
 ```
 
 ## 8. 인프라 구조도
-<img width="1608" height="1320" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/cd826d9f-ba1c-446f-86ba-98f671174730" />
-
+<img width="1608" height="1320" alt="Image" src="https://github.com/user-attachments/assets/e531e60e-4550-4776-9349-4278011e3bd8" />
 
 ---
 ## 9. ERD
 
 ### 주요 ERD
 
-<img width="646" height="643" alt="녀름나기 ERD" src="https://github.com/user-attachments/assets/1ec87daa-7a3c-4dab-b170-6fbc3173ef47" />
+<img width="646" height="643" alt="Image" src="https://github.com/user-attachments/assets/b582a708-6edf-468c-88d9-f361f38a8074" />
 
 
 ### 날씨 관련 ERD
 
-<img width="650" height="204" alt="날씨 관련 ERD" src="https://github.com/user-attachments/assets/85068dba-d15b-4021-9ecd-a8aa83b4f918" />
+<img width="650" height="204" alt="Image" src="https://github.com/user-attachments/assets/ce53795a-7d2b-4cf9-a7c0-440ba951daed" />
 
 ### 지역 코드 ERD
 
-<img width="529" height="490" alt="지역 코드 ERD" src="https://github.com/user-attachments/assets/2e24d1d1-99c0-4cb6-8ad9-7aba2add9c23" />
+<img width="529" height="490" alt="Image" src="https://github.com/user-attachments/assets/1b4a74c7-2158-48df-b513-104548d49fd0" />
 
 ---
 
